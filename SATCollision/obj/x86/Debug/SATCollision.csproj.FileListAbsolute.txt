@@ -1,0 +1,9 @@
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\bin\WindowsGL\Debug\SATCollision.exe
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\bin\WindowsGL\Debug\SATCollision.pdb
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\obj\x86\Debug\SATCollision.csprojResolveAssemblyReference.cache
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\obj\x86\Debug\SATCollision.exe
+C:\Users\Ejer\Documents\Visual Studio 2013\Projects\SATCollision\SATCollision\obj\x86\Debug\SATCollision.pdb
